@@ -10,7 +10,8 @@
 
 
 //飞行为抽象接口
-interface IFlyBehavior{
+interface IFlyBehavior
+{
     function fly();
 }
 
